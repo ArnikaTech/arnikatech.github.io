@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">تصویر نوشته آرنیکاتک</title>
+  <desc id="desc">تصویر پیش‌فرض برای نوشته‌های وبلاگ آرنیکاتک</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.5" stop-color="#1a1040"/>
+      <stop offset="1" stop-color="#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="110" r="190" fill="#7c3aed" opacity=".12"/>
+  <circle cx="150" cy="560" r="240" fill="#4f46e5" opacity=".10"/>
+  <rect x="80" y="80" width="1040" height="470" rx="36" fill="#121423" fill-opacity=".42" stroke="#ffffff" stroke-opacity=".08"/>
+  <g transform="translate(600 235)">
+    <polygon points="0,-70 61,-35 61,35 0,70 -61,35 -61,-35" fill="url(#accent)" opacity=".95"/>
+    <polygon points="0,-38 33,-19 33,19 0,38 -33,19 -33,-19" fill="#fff" opacity=".9"/>
+  </g>
+  <text x="600" y="365" text-anchor="middle" fill="#ffffff" font-family="Vazirmatn, Arial, sans-serif" font-size="42" font-weight="700">آرنیکاتک</text>
+  <text x="600" y="415" text-anchor="middle" fill="#a78bfa" font-family="Vazirmatn, Arial, sans-serif" font-size="25">وبلاگ فناوری و هوش مصنوعی</text>
+</svg>
