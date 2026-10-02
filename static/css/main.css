@@ -3806,30 +3806,6 @@ PROFILE PAGE (آینده)
   color: #c4b5fd;
 }
 
-/* Blog card footer: fixed compact height and anchored to card bottom */
-.blog-card-vertical .blog-card-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 0;
-}
-
-.blog-card-vertical .blog-card-footer {
-  flex: 0 0 46px;
-  height: 46px;
-  min-height: 46px;
-  margin-top: auto;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  border-top: 1px solid rgba(255, 255, 255, 0.06);
-}
-
-.blog-card-vertical .blog-card-read-more {
-  line-height: 1;
-  white-space: nowrap;
-}
-
 /* ==================== ARTICLE CONTENT ==================== */
 .article-content h2 {
   color: #f0f0ff;
